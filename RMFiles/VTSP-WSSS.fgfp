@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+	<source type="string">https://flightplandatabase.com/plan/73596</source>
+	<version type="int">2</version>
+	<departure>
+		<airport type="string">VTSP</airport>
+	</departure>
+	<destination>
+		<airport type="string">WSSS</airport>
+	</destination>
+	<route>
+		<wp n="0">
+			<type type="string">navaid</type>
+			<departure type="bool">true</departure>
+			<ident type="string">VTSP</ident>
+			<lat type="double">8.113199</lat>
+			<lon type="double">98.316871</lon>
+		</wp>
+		<wp n="1">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">200</altitude-ft>
+			<ident type="string">PUT</ident>
+			<lat type="double">8.115231</lat>
+			<lon type="double">98.306303</lon>
+		</wp>
+		<wp n="2">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">DALAN</ident>
+			<lat type="double">6.468889</lat>
+			<lon type="double">99.655556</lon>
+		</wp>
+		<wp n="3">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">VPL</ident>
+			<lat type="double">6.355417</lat>
+			<lon type="double">99.747389</lon>
+		</wp>
+		<wp n="4">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">ANDOK</ident>
+			<lat type="double">6.022222</lat>
+			<lon type="double">100.000000</lon>
+		</wp>
+		<wp n="5">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">VILAT</ident>
+			<lat type="double">5.891111</lat>
+			<lon type="double">100.099167</lon>
+		</wp>
+		<wp n="6">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">VIH</ident>
+			<lat type="double">4.573028</lat>
+			<lon type="double">101.093611</lon>
+		</wp>
+		<wp n="7">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">ANSOM</ident>
+			<lat type="double">4.073333</lat>
+			<lon type="double">101.538611</lon>
+		</wp>
+		<wp n="8">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">27300</altitude-ft>
+			<ident type="string">LATUK</ident>
+			<lat type="double">2.921111</lat>
+			<lon type="double">102.562778</lon>
+		</wp>
+		<wp n="9">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">17200</altitude-ft>
+			<ident type="string">DAMAL</ident>
+			<lat type="double">2.331944</lat>
+			<lon type="double">103.086667</lon>
+		</wp>
+		<wp n="10">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">6800</altitude-ft>
+			<ident type="string">VJR</ident>
+			<lat type="double">1.729861</lat>
+			<lon type="double">103.621639</lon>
+		</wp>
+		<wp n="11">
+			<type type="string">navaid</type>
+			<arrival type="bool">true</arrival>
+			<ident type="string">WSSS</ident>
+			<lat type="double">1.351917</lat>
+			<lon type="double">103.995603</lon>
+		</wp>
+	</route>
+</PropertyList>

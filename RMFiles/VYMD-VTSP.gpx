@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>VYMD-VTSP</name>
+    <rtept lat="21.701072" lon="95.977456">
+      <name>VYMD</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="20.748028" lon="96.789928">
+      <name>HHO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="17.318494" lon="96.519875">
+      <name>BGO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="15.443083" lon="97.496389">
+      <name>POXEM</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="14.943525" lon="97.762333">
+      <name>KAKIE</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="14.100408" lon="98.207772">
+      <name>DWI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="13.433442" lon="98.217358">
+      <name>RENOX</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="10.001917" lon="98.288694">
+      <name>PADET</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="9.120225" lon="98.297039">
+      <name>DADSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="8.112500" lon="98.309167">
+      <name>VTSP</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>

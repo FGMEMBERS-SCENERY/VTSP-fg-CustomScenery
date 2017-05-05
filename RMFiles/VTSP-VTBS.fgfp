@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+	<source type="string">https://flightplandatabase.com/plan/106442</source>
+	<version type="int">2</version>
+	<departure>
+		<airport type="string">VTSP</airport>
+	</departure>
+	<destination>
+		<airport type="string">VTBS</airport>
+	</destination>
+	<route>
+		<wp n="0">
+			<type type="string">navaid</type>
+			<departure type="bool">true</departure>
+			<ident type="string">VTSP</ident>
+			<lat type="double">8.113199</lat>
+			<lon type="double">98.316871</lon>
+		</wp>
+		<wp n="1">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">27800</altitude-ft>
+			<ident type="string">STN</ident>
+			<lat type="double">9.129511</lat>
+			<lon type="double">99.134747</lon>
+		</wp>
+		<wp n="2">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">APRIL</ident>
+			<lat type="double">11.000000</lat>
+			<lon type="double">99.721667</lon>
+		</wp>
+		<wp n="3">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">35000</altitude-ft>
+			<ident type="string">MENEX</ident>
+			<lat type="double">11.141861</lat>
+			<lon type="double">99.761833</lon>
+		</wp>
+		<wp n="4">
+			<type type="string">navaid</type>
+			<alt-restrict type="string">at</alt-restrict>
+			<altitude-ft type="double">23000</altitude-ft>
+			<ident type="string">UKERA</ident>
+			<lat type="double">12.035347</lat>
+			<lon type="double">100.019331</lon>
+		</wp>
+		<wp n="5">
+			<type type="string">navaid</type>
+			<arrival type="bool">true</arrival>
+			<ident type="string">VTBS</ident>
+			<lat type="double">13.680456</lat>
+			<lon type="double">100.747512</lon>
+		</wp>
+	</route>
+</PropertyList>
